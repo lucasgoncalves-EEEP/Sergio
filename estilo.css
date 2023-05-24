@@ -1,0 +1,9 @@
+body{
+    background-color: aqua;
+}
+.box-parent-login{
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+}
